@@ -2,3 +2,4 @@
 .DS_Store
 out/
 prototype/gate1-diary/out/
+__pycache__/
